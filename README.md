@@ -1,5 +1,5 @@
 # 💫 About Me:
-On my GitHub profile, you'll find a variety of projects that showcase my skills and interests. These range from simple web apps and games to more complex machine learning models. I'm constantly working on new projects and learning new technologies, so be sure to check back often for updates.<br><br>🔭 I’m currently working on [Tyro](https://github.com/TyroML) <br><br>🌱 I’m currently learning Gin, Grafana, Prometheus<br>
+On my GitHub profile, you'll find a variety of projects that showcase my skills and interests. These range from simple web apps and games to more complex machine learning models. I'm constantly working on new projects and learning new technologies, so be sure to check back often for updates.<br><br>🔭 I’m currently working on [Tyro](https://github.com/TyroML) 🦖<br><br>🌱 I’m currently learning Gin, Grafana, Prometheus<br>
 
 
 ## 🌐 Socials:
