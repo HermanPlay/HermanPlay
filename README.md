@@ -1,5 +1,5 @@
 # 💫 About Me:
-On my GitHub profile, you'll find a variety of projects that showcase my skills and interests. These range from simple web apps and games to more complex machine learning models. I'm constantly working on new projects and learning new technologies, so be sure to check back often for updates.<br><br>🔭 I’m currently working on [MaXiT](https://github.com/mini-maxit), [YT2MP3](https://github.com/HermanPlay/YT2MP3)
+On my GitHub profile, you'll find a variety of projects that showcase my skills and interests. These range from simple web apps and games to more complex machine learning models. I'm constantly working on new projects and learning new technologies, so be sure to check back often for updates.<br><br>🔭 I’m currently working on [MaXiT](https://github.com/mini-maxit)
 
 
 ## 🌐 Socials:
